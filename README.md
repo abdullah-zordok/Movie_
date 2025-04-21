@@ -1,7 +1,7 @@
 
 # AngularMovieApp
 
-Welcome to AngularMovieAppV2! This web application enables users to discover movie and TV show trailers, leveraging data from the TMDB API. The project is built with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.3.
+Welcome to AngularMovieApp! This web application enables users to discover movie and TV show trailers, leveraging data from the TMDB API. The project is built with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.3.
 
 ## Live Demos
 
